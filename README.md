@@ -45,7 +45,3 @@ How to Run:
    jupyter notebook Web\ Scrapping.ipynb
 
 3. Run the cells to perform web scraping and view the results.
-
-License:
----------
-This repository is for educational and demonstration purposes only.
