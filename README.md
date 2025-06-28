@@ -1,5 +1,3 @@
-Readme.txt
-
 Web Scrapping - Scraping Properties for Sale from the Web
 =========================================================
 
